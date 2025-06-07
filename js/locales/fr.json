@@ -1,0 +1,58 @@
+{
+  "nav_home": "Accueil",
+  "nav_menu": "Menu",
+  "nav_services": "Services",
+  "nav_about": "À propos",
+  "nav_contact": "Contact",
+
+  "slider_1_sub": "Saveurs Authentiques",
+  "slider_1_title": "Cuisine Péruvienne",
+  "slider_1_text": "Découvrez la fusion riche de traditions indigènes et d'ingrédients frais...",
+  "slider_1_btn_order": "Commander",
+  "slider_1_btn_menu": "Voir le Menu",
+
+  "slider_2_sub": "Croustillant",
+  "slider_2_title": "Anticuchos Péruviens",
+  "slider_2_text": "Brochettes de viande marinée dans l'ají panca et les épices andines...",
+  "slider_2_btn_order": "Commander",
+  "slider_2_btn_menu": "Voir le Menu",
+
+  "slider_3_sub": "Bienvenue",
+  "slider_3_title": "Cuisine Péruvienne Authentique",
+  "slider_3_text": "Savourez les plats du Pérou préparés selon des recettes traditionnelles...",
+  "slider_3_btn_order": "Commander",
+  "slider_3_btn_menu": "Voir le Menu",
+
+  "intro_phone_text": "Appelez-nous pour réserver",
+  "intro_location_text": "L'Escala, Gérone",
+  "intro_hours_title": "Lundi-Dimanche",
+  "intro_hours_text": "11h00 - 17h00",
+
+  "about_title": "Bienvenue au Saxsay Gastrobar",
+  "about_text": "Saxsay Gastrobar apporte les saveurs authentiques du Pérou à votre table...",
+
+  "services_title": "Nos Services",
+  "services_text": "Découvrez l'hospitalité péruvienne dans toute sa splendeur...",
+  "service_1_title": "Cuisine Péruvienne Authentique",
+  "service_1_text": "Notre menu propose des plats traditionnels du Pérou...",
+  "service_2_title": "Livraison à Domicile",
+  "service_2_text": "Savourez notre cuisine à la maison...",
+  "service_3_title": "Recettes Traditionnelles",
+  "service_3_text": "Des recettes transmises de génération en génération...",
+
+  "section_prices_title": "Nos Tarifs",
+  "section_prices_text": "Une expérience péruvienne authentique à prix abordable...",
+
+  "blog_section_title": "Nouvelles du Blog",
+  "blog_section_text": "Explorez les articles sur l’histoire et les saveurs du Pérou...",
+
+  "footer_about_title": "À propos de nous",
+  "footer_about_text": "Saxsay Gastrobar est un lieu dédié à la tradition culinaire péruvienne...",
+  "footer_contact_title": "Des Questions ?",
+
+  "appointment_title": "Contactez-nous",
+  "form_first_name": "Prénom",
+  "form_last_name": "Nom",
+  "form_message": "Message",
+  "form_send": "Envoyer"
+}

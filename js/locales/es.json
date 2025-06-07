@@ -1,0 +1,58 @@
+{
+  "nav_home": "Inicio",
+  "nav_menu": "Menú",
+  "nav_services": "Servicios",
+  "nav_about": "Nosotros",
+  "nav_contact": "Contacto",
+
+  "slider_1_sub": "Sabores Auténticos",
+  "slider_1_title": "Gastronomía Peruana",
+  "slider_1_text": "Experimenta la rica fusión de tradiciones indígenas e ingredientes frescos...",
+  "slider_1_btn_order": "Ordenar Ahora",
+  "slider_1_btn_menu": "Ver Menú",
+
+  "slider_2_sub": "Crujientes",
+  "slider_2_title": "Anticuchos Peruanos",
+  "slider_2_text": "Brochetas de carne tierna marinada en ají panca y especias andinas...",
+  "slider_2_btn_order": "Ordenar Ahora",
+  "slider_2_btn_menu": "Ver Menú",
+
+  "slider_3_sub": "Bienvenidos",
+  "slider_3_title": "Auténtica Cocina Peruana",
+  "slider_3_text": "Descubre los sabores del Perú con nuestros platos cuidadosamente elaborados...",
+  "slider_3_btn_order": "Ordenar Ahora",
+  "slider_3_btn_menu": "Ver Menú",
+
+  "intro_phone_text": "Llámanos para reservas",
+  "intro_location_text": "L'Escala, Girona",
+  "intro_hours_title": "Lunes-Domingo",
+  "intro_hours_text": "11:00 - 17:00",
+
+  "about_title": "Bienvenidos a Saxsay Gastrobar",
+  "about_text": "Saxsay Gastrobar trae los auténticos sabores del Perú a tu mesa...",
+
+  "services_title": "Nuestros Servicios",
+  "services_text": "Experimenta lo mejor de la hospitalidad peruana...",
+  "service_1_title": "Auténtica Comida Peruana",
+  "service_1_text": "Nuestro menú presenta platos tradicionales peruanos...",
+  "service_2_title": "Entrega a Domicilio",
+  "service_2_text": "Disfruta de nuestra deliciosa cocina peruana en casa...",
+  "service_3_title": "Recetas Tradicionales",
+  "service_3_text": "Nuestras recetas han sido transmitidas de generación...",
+
+  "section_prices_title": "Nuestros Precios",
+  "section_prices_text": "Ofrecemos una experiencia gastronómica peruana auténtica...",
+  
+  "blog_section_title": "Noticias del Blog",
+  "blog_section_text": "Descubre artículos sobre la rica historia de la gastronomía peruana...",
+
+  "footer_about_title": "Sobre Nosotros",
+  "footer_about_text": "Saxsay Gastrobar es un espacio dedicado a celebrar la rica tradición...",
+  "footer_contact_title": "¿Tienes Alguna Pregunta?",
+
+  "appointment_title": "Contáctanos",
+  "form_first_name": "Nombre",
+  "form_last_name": "Apellido",
+  "form_message": "Mensaje",
+  "form_send": "Enviar"
+}

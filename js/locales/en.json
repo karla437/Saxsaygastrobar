@@ -1,0 +1,58 @@
+{
+  "nav_home": "Home",
+  "nav_menu": "Menu",
+  "nav_services": "Services",
+  "nav_about": "About",
+  "nav_contact": "Contact",
+
+  "slider_1_sub": "Authentic Flavors",
+  "slider_1_title": "Peruvian Cuisine",
+  "slider_1_text": "Experience the rich fusion of indigenous traditions and fresh ingredients...",
+  "slider_1_btn_order": "Order Now",
+  "slider_1_btn_menu": "See Menu",
+
+  "slider_2_sub": "Crispy",
+  "slider_2_title": "Peruvian Anticuchos",
+  "slider_2_text": "Skewers of tender meat marinated in ají panca and Andean spices...",
+  "slider_2_btn_order": "Order Now",
+  "slider_2_btn_menu": "See Menu",
+
+  "slider_3_sub": "Welcome",
+  "slider_3_title": "Authentic Peruvian Cooking",
+  "slider_3_text": "Discover the flavors of Peru with our dishes crafted from traditional recipes...",
+  "slider_3_btn_order": "Order Now",
+  "slider_3_btn_menu": "See Menu",
+
+  "intro_phone_text": "Call us for reservations",
+  "intro_location_text": "L'Escala, Girona",
+  "intro_hours_title": "Monday-Sunday",
+  "intro_hours_text": "11:00 - 17:00",
+
+  "about_title": "Welcome to Saxsay Gastrobar",
+  "about_text": "Saxsay Gastrobar brings the authentic flavors of Peru to your table...",
+
+  "services_title": "Our Services",
+  "services_text": "Experience the best of Peruvian hospitality...",
+  "service_1_title": "Authentic Peruvian Food",
+  "service_1_text": "Our menu features traditional Peruvian dishes...",
+  "service_2_title": "Home Delivery",
+  "service_2_text": "Enjoy our delicious Peruvian cuisine at home...",
+  "service_3_title": "Traditional Recipes",
+  "service_3_text": "Our recipes have been passed down through generations...",
+
+  "section_prices_title": "Our Prices",
+  "section_prices_text": "We offer an authentic Peruvian dining experience at affordable prices...",
+
+  "blog_section_title": "Blog News",
+  "blog_section_text": "Explore articles on the rich history of Peruvian cuisine...",
+
+  "footer_about_title": "About Us",
+  "footer_about_text": "Saxsay Gastrobar is a space dedicated to celebrating the rich Peruvian culinary tradition...",
+  "footer_contact_title": "Have a Question?",
+
+  "appointment_title": "Contact Us",
+  "form_first_name": "First Name",
+  "form_last_name": "Last Name",
+  "form_message": "Message",
+  "form_send": "Send"
+}

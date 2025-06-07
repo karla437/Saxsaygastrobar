@@ -1,0 +1,58 @@
+{
+  "nav_home": "Inici",
+  "nav_menu": "Menú",
+  "nav_services": "Serveis",
+  "nav_about": "Sobre Nosaltres",
+  "nav_contact": "Contacte",
+
+  "slider_1_sub": "Sabors Autèntics",
+  "slider_1_title": "Gastronomia Peruana",
+  "slider_1_text": "Experimenta la rica fusió de tradicions indígenes i ingredients frescos...",
+  "slider_1_btn_order": "Fes la comanda",
+  "slider_1_btn_menu": "Veure Menú",
+
+  "slider_2_sub": "Cruixents",
+  "slider_2_title": "Anticuchos Peruans",
+  "slider_2_text": "Broquetes de carn tendra marinades amb ají panca i espècies andines...",
+  "slider_2_btn_order": "Fes la comanda",
+  "slider_2_btn_menu": "Veure Menú",
+
+  "slider_3_sub": "Benvinguts",
+  "slider_3_title": "Cuina Peruana Autèntica",
+  "slider_3_text": "Descobreix els sabors del Perú amb plats fets segons receptes tradicionals...",
+  "slider_3_btn_order": "Fes la comanda",
+  "slider_3_btn_menu": "Veure Menú",
+
+  "intro_phone_text": "Truca'ns per fer reserves",
+  "intro_location_text": "L'Escala, Girona",
+  "intro_hours_title": "Dilluns-Diumenge",
+  "intro_hours_text": "11:00 - 17:00",
+
+  "about_title": "Benvinguts a Saxsay Gastrobar",
+  "about_text": "Saxsay Gastrobar porta els sabors autèntics del Perú a la teva taula...",
+
+  "services_title": "Els Nostres Serveis",
+  "services_text": "Gaudeix de l'hospitalitat peruana amb serveis memorables...",
+  "service_1_title": "Cuina Peruana Autèntica",
+  "service_1_text": "El nostre menú ofereix plats tradicionals del Perú...",
+  "service_2_title": "Servei a Domicili",
+  "service_2_text": "Gaudeix de la nostra cuina a casa teva...",
+  "service_3_title": "Receptes Tradicionals",
+  "service_3_text": "Receptes transmeses de generació en generació...",
+
+  "section_prices_title": "Els Nostres Preus",
+  "section_prices_text": "Una experiència culinària peruana a preus assequibles...",
+
+  "blog_section_title": "Notícies del Blog",
+  "blog_section_text": "Descobreix articles sobre la rica cuina peruana...",
+
+  "footer_about_title": "Sobre Nosaltres",
+  "footer_about_text": "Saxsay Gastrobar celebra la tradició culinària peruana amb un toc modern...",
+  "footer_contact_title": "Tens Cap Dubte?",
+
+  "appointment_title": "Contacta'ns",
+  "form_first_name": "Nom",
+  "form_last_name": "Cognom",
+  "form_message": "Missatge",
+  "form_send": "Enviar"
+}
