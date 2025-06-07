@@ -1,3 +1,4 @@
+
  AOS.init({
  	duration: 800,
  	easing: 'slide'
@@ -291,8 +292,12 @@
 
 	$('#appointment_time').timepicker();
 
-
-
+	  // Inicialización del sistema de idiomas (al final de todo)
+  if (typeof inicializarIdioma === 'function') {
+    inicializarIdioma();
+  } else {
+    console.warn('i18n.js no está cargado o inicializarIdioma no está disponible.');
+  }
 
 })(jQuery);
 
